@@ -1,5 +1,6 @@
 {
   "banner": {
+<<<<<<< Updated upstream
     "title": "SLMS Sample Portal",
     "subtitle": "Optional subtitle",
     "feedback": "Feedback",
@@ -20,6 +21,9 @@
   },
   "kmlOverlay": {
     "clear": "Clear"
+=======
+    "title": "GONINI - National Land Monitoring System of Suriname"
+>>>>>>> Stashed changes
   },
   "layerSelector": {
     "layers": "Layers"

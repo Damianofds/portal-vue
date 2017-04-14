@@ -1,5 +1,6 @@
 {
   "banner": {
+<<<<<<< Updated upstream
     "title": "Portail d'exemple SLMS",
     "subtitle": "Sous-titre facultatif",
     "feedback": "Feedback",
@@ -20,6 +21,9 @@
   },
   "kmlOverlay": {
     "clear": "Supprimer"
+=======
+    "title": "Portail d'exemple SLMS"
+>>>>>>> Stashed changes
   },
   "layerSelector": {
     "layers": "Couches"
